@@ -1,0 +1,2 @@
+# Particle / Volume
+Abra index.html num navegador com WebGL 2 (Chrome recomendado). Importe uma imagem PNG, JPG, WebP ou SVG; ajuste a máscara, construção e espessura. Arraste para rodar e use scroll para zoom. Para fotografias, experimente a máscara Imagem completa e Relevo tonal. Para logótipos, use transparência ou traços escuros. Exportação PNG, vídeo conforme suporte do navegador e nuvem estática PLY com coordenadas e cores. PLY não inclui animação nem malha. A profundidade é sintetizada a partir da imagem, não reconstruída por visão computacional. Processamento local.
